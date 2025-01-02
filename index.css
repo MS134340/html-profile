@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(248, 235, 221);
+    color: rgb(0, 0, 0);
+}
+.body_content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.intro_part {
+    display: -moz-inline-box;
+    align-items: right;
+    justify-content: right;
+}
